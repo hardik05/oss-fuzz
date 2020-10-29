@@ -5,3 +5,7 @@ auto_ccs:
   - vapier@gmail.com
   - tim@tim-smith.us
   - cmbecker69@gmx.de
+ sanitizers:
+- address
+- undefined
+- memory
